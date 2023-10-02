@@ -1,7 +1,8 @@
-import random       # also do with numpy (from numpy import random)
-
+      # also do with numpy (from numpy import random)
+from numpy import random
 
 # ------------ function definition
+
 
 def roll_dice():
     number = random.randint(1,6)
