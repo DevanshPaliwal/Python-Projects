@@ -1,5 +1,4 @@
-import random       # also do with numpy (from numpy import random)
-
+from numpy import random
 
 # ------------ function definition
 
